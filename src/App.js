@@ -5,8 +5,6 @@ function App() {
   return (
     <>
       <Example done={90} />
-      <Example done={50} />
-      <Example done={30} />
     </>
   )
 }
